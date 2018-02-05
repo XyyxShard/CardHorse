@@ -1,0 +1,5 @@
+# ignore the virtual environment
+cardhorse/
+
+# ignore the .idea folder I guess?
+.idea/
